@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Stephanie Wilks"
-  avatar : "assets/images/Profile2.png"
+  avatar : "/assets/images/Profile2.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "LinkedIn"
